@@ -1,4 +1,4 @@
-# project-1
+# Middle Ground
 Welcome to middle ground. Middle ground makes finding a safe and convenient meeting place a simple and easy process. By taking two addresses and giving you a list of convenience stores at a spot between both locations.
 
 ![cover photo](assets/images/cover.PNG)
